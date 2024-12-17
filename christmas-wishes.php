@@ -2,7 +2,7 @@ function wp_christmas_wish($atts) {
     // Christmas Wishes
      $json_data = '[
     {
-      "wish": "Wishing you a Christmas that's merry and bright, filled with joy, love, and laughter. Happy Holidays!"
+      "wish": "Wishing you a Christmas that\'s merry and bright, filled with joy, love, and laughter. Happy Holidays!"
     },
     {
       "wish": "May your Christmas sparkle with moments of love, laughter, and goodwill. Have a joyful season!"
@@ -29,7 +29,7 @@ function wp_christmas_wish($atts) {
       "wish": "May the holiday season fill your home with happiness, your heart with love, and your life with laughter. Merry Christmas!"
     },
     {
-      "wish": "Here's to a season filled with warmth, comfort, and good cheer. Wishing you a Merry Christmas!"
+      "wish": "Here\'s to a season filled with warmth, comfort, and good cheer. Wishing you a Merry Christmas!"
     },
     {
       "wish": "Warm wishes for a happy holiday season and a wonderful New Year. Merry Christmas to you and yours!"
@@ -65,7 +65,7 @@ function wp_christmas_wish($atts) {
       "wish": "Wishing you a Christmas season filled with joy and laughter and a New Year that brings peace and prosperity."
     },
     {
-      "wish": "Here's to a Christmas that's merry and bright! May you find joy in every moment. Happy Holidays!"
+      "wish": "Here\'s to a Christmas that\'s merry and bright! May you find joy in every moment. Happy Holidays!"
     },
     {
       "wish": "Wishing you a Christmas full of love, peace, and unforgettable memories with family and friends."
@@ -101,7 +101,7 @@ function wp_christmas_wish($atts) {
       "wish": "May your holidays sparkle with moments of love, laughter, and goodwill. Merry Christmas!"
     },
     {
-      "wish": "Here's to love, laughter, and cheer this holiday season. Wishing you a magical Christmas!"
+      "wish": "Here\'s to love, laughter, and cheer this holiday season. Wishing you a magical Christmas!"
     },
     {
       "wish": "May the light of Christmas shine bright in your life and bring you peace and joy throughout the year."
