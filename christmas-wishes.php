@@ -136,7 +136,7 @@ function wp_christmas_wish($atts) {
         
         // Display the random wish
         return "<div id='capture'>
-                    <p class='christmas-content' style=\"max-width: 320px; color:white; background-image:url('https://i.ibb.co/fNhQYHM/happy-christmas-2.jpg'); padding:10px 10px 100px 10px; font-weight:bold; text-align:center; background-size: 100% 100%; border: 1px solid #ddd; margin: 0 auto;\">
+                    <p class='christmas-content' style=\"max-width: 320px; color:white; background-image:url('https://i.ibb.co/f0DLRf0/153456.webp'); padding:10px 10px 100px 10px; font-weight:bold; text-align:center; background-size: 100% 100%; border: 1px solid #ddd; margin: 0 auto;\">
                         " . esc_html($wishes[$random_key]['wish']) . "
                     </p>
                 </div>";
